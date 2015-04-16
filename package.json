@@ -1,0 +1,29 @@
+{
+  "name": "zoo-packager-map",
+  "description": "A packager plugin for fis to pack resources.",
+  "version": "0.0.1",
+  "author": {
+    "name": "rsk",
+    "email": "rsk_rsk@163.com"
+  },
+  "keywords": [
+  	"fis",
+    "fis-zoo"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyRen/zoo-packager-map.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "readmeFilename": "README.md",
+  "maintainers": [
+    {
+      "name": "rsk",
+      "email": "rsk_rsk@163.com"
+    }
+  ],
+  "directories": {}
+}
